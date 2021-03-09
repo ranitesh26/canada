@@ -1,2 +1,4 @@
 practice git
-its edited
+its edite
+edited in feature2
+d
